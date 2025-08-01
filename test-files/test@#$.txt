@@ -1,0 +1,13 @@
+1.  One day has 24 hours. One hour has 60 mins. How many minutes are there in a day?
+
+
+2.  One week has 7 days, one day has 24 hours. How many hours are there in a week?
+
+
+3.  There are 999 dollars need to be allocated to 10 people evenly. How much money can one person get?
+
+
+4.  There are 12 months in a year. How many months are there in a quarter of a year.
+
+
+5.  There is a bucket inside got 10 eggs collected from 5 hens in the farm evenly. How many egg(s) does the farmer collect from each hen?
